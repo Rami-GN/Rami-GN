@@ -28,7 +28,7 @@
 
 <p align="left">
 <a href="https://qase.io/">
-<img src="https://github.com/qajenna/qajenna/blob/main/icons/Qase.io.png" alt="Qase.io" width="50" height="50" />
+<img src="https://github.com/Rami-GN/Rami-GN/blob/main/icon/Qase.io.png" alt="Qase.io" width="50" height="50" />
 </a>
 <a href="https://testit.software/">
 <img src="https://github.com/qajenna/qajenna/blob/main/icons/TestIT.png" alt="TestIT" width="50" height="50" />
@@ -40,45 +40,45 @@
 <img src="https://github.com/qajenna/qajenna/blob/main/icons/Zephyr.png" alt="Zephyr" width="50" height="50" />
 </a>
 <a href="https://www.charlesproxy.com/">
-<img src="https://github.com/qajenna/qajenna/blob/main/icons/Charles.png" alt="Charles" width="50" height="50" />
+<img src="https://github.com/Rami-GN/Rami-GN/blob/main/icon/Charles.png" alt="Charles" width="50" height="50" />
 </a>
 
 <a href="https://grafana.com/">
-<img src="https://github.com/qajenna/qajenna/blob/main/icons/Grafana.png" alt="Grafana" width="50" height="50" />
+<img src="https://github.com/Rami-GN/Rami-GN/blob/main/icon/Grafana.png" alt="Grafana" width="50" height="50" />
 </a>
 
 <a href="https://sentry.io/welcome/">
-<img src="https://github.com/qajenna/qajenna/blob/main/icons/Sentry.png" alt="Sentry" width="50" height="50" />
+<img src="https://github.com/Rami-GN/Rami-GN/blob/main/icon/Sentry.png" alt="Sentry" width="50" height="50" />
 </a>
 
 
 <a href="https://developer.apple.com/testflight/">
-<img src="https://github.com/qajenna/qajenna/blob/main/icons/Testflight.png" alt="Testflight" width="50" height="50" />
+<img src="https://github.com/Rami-GN/Rami-GN/blob/main/icon/Testflight.png" alt="Testflight" width="50" height="50" />
 </a> 
 
 <a href="https://figma.com">
-<img src="https://github.com/qajenna/qajenna/blob/main/icons/Figma.svg" alt="Figma" width="50" height="50" /> 
+<img src="https://github.com/Rami-GN/Rami-GN/blob/main/icon/Figma.svg" alt="Figma" width="50" height="50" /> 
 </a>
 
 <a href="https://www.atlassian.com/software/jira">
-<img src="https://github.com/qajenna/qajenna/blob/main/icons/Jira.png" alt="Jira" width="50" height="50" />
+<img src="https://github.com/Rami-GN/Rami-GN/blob/main/icon/Jira.png" alt="Jira" width="50" height="50" />
 </a>
 <a href="https://www.postman.com/">
-<img src="https://github.com/qajenna/qajenna/blob/main/icons/Postman.png" alt="Postman" width="50" height="50" />
+<img src="https://github.com/Rami-GN/Rami-GN/blob/main/icon/Postman.png" alt="Postman" width="50" height="50" />
 </a>
 <a href="https://swagger.io/">
-<img src="https://github.com/qajenna/qajenna/blob/main/icons/swagger.png" alt="Swagger" width="50" height="50" />
+<img src="https://github.com/Rami-GN/Rami-GN/blob/main/icon/swagger.png" alt="Swagger" width="50" height="50" />
 </a>
 
 
 <a href="https://www.notion.so/wikis/">
-<img src="https://github.com/Rami-GN/qaramil/blob/main/icon/Notion-logo.svg.png" alt="Notion" width="50" height="50" />
+<img src="https://github.com/Rami-GN/Rami-GN/blob/main/icon/Notion-logo.svg.png" alt="Notion" width="50" height="50" />
 </a>
 
 
 
 <a href="https://www.metabase.com/">
-<img src="https://github.com/Rami-GN/qaramil/blob/main/icon/images.jpg" alt="Metabase" width="50" height="50" />
+<img src="https://github.com/Rami-GN/Rami-GN/blob/main/icon/images.jpg" alt="Metabase" width="50" height="50" />
 </a>
 
 </p>
