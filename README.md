@@ -11,14 +11,7 @@
 
 ## My CV 
 [Здесь моё резюме на HH](https://hh.ru/resume/c02c0b9aff0bb723110039ed1f564163554631)
-## Портфолио 
-- Тестовая документация
-  -  [Чек-листы](https://ссылочку_сюда)
-  -  [Тест-кейсы](https://ссылочку_сюда)
-  -  [Mind maps](https://ссылочку_сюда)
-  -  [Баг-репорты](https://ссылочку_сюда)
-- Коллекция в Postman 
-  -  [Название проекта](https://ссылочку_сюда)
+## Сделал на досуге 
 - Бот Telegram
   -  [Помощник тестировщика (проверка и форматирование JSON)](https://github.com/Rami-GN/tg_json_bot)
 - Сайт HTML и CSS
@@ -91,7 +84,7 @@
 
 ## Мои контакты
 
-[![Linkedin: ](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in)
+
 [![Website: Ramil Golubyatnikov](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://rami-gn.github.io)
 [![Instagram: ](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/4yD1k)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/colddepo)
