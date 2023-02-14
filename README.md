@@ -20,7 +20,7 @@
 - Коллекция в Postman 
   -  [Название проекта](https://ссылочку_сюда)
 - Бот Telegram
-  -  [Помощник тестировщика (проверка и форматирование JSON](https://github.com/Rami-GN/tg_json_bot)
+  -  [Помощник тестировщика (проверка и форматирование JSON)](https://github.com/Rami-GN/tg_json_bot)
 - Сайт HTML и CSS
   -  [Сайт визитка](https://github.com/Rami-GN/CV)
   
